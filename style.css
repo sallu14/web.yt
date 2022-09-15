@@ -13,7 +13,7 @@ header {
 }
 .form {
   padding: 40px;
-  background-color: gray;
+  background-color: red;
   box-sizing: border-box;
   border: 2px solid rgb(93, 11, 11);
   box-shadow: 100px;
